@@ -15,4 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## To integrate with firebase
+## To test firebase storage emulator
+
+1. Launch storage emulator with default ports ```firebase emulators:start```
+2. Run flutter app ```flutter run```
+3. Make changes in https://github.com/Yuangwang/firebase-flutter-sample-app/blob/main/lib/main.dart#L40
+3. Press button to test
+
+
