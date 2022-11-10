@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBRSH4N3PdW3qKOvtNOZ4ouqhCQ7XRJESU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>742438877825</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseStorageFlutterApp</string>
+	<key>PROJECT_ID</key>
+	<string>test-a71aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-a71aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:742438877825:ios:163ecc00664746a769ab80</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-a71aa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
